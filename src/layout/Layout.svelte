@@ -8,7 +8,7 @@
 		<Sidebar />
 	</div>
 
-	<div class="grow p-6">
+	<div class="grow p-6 flex items-center justify-center">
 		<Canvas />
 	</div>
 </div>
